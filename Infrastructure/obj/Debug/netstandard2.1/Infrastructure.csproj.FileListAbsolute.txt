@@ -1,0 +1,11 @@
+C:\Users\Azer Eng\source\repos\MyPortfolio-master\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+C:\Users\Azer Eng\source\repos\MyPortfolio-master\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+C:\Users\Azer Eng\source\repos\MyPortfolio-master\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+C:\Users\Azer Eng\source\repos\MyPortfolio-master\Infrastructure\bin\Debug\netstandard2.1\Core.dll
+C:\Users\Azer Eng\source\repos\MyPortfolio-master\Infrastructure\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\Azer Eng\source\repos\MyPortfolio-master\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Azer Eng\source\repos\MyPortfolio-master\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Azer Eng\source\repos\MyPortfolio-master\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+C:\Users\Azer Eng\source\repos\MyPortfolio-master\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CopyComplete
+C:\Users\Azer Eng\source\repos\MyPortfolio-master\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+C:\Users\Azer Eng\source\repos\MyPortfolio-master\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb
